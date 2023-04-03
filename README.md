@@ -23,8 +23,6 @@
   <img align="center" alt="Icone-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />         
 </div>
 
-##
-
     
 <h3>Entre em contato:</h3>
 <div>
